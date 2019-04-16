@@ -2,22 +2,10 @@
 layout: post
 title:  "그룹 안심 귀가 서비스"
 date:   2019-04-16
-description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입니다. 현재, 가정 도착 알림 시스템은 주로 여성, 어린이, 택시에 적용되고 있습니다. 하지만 집단에 대한 집 도착 알림 시스템은 없습니다. 현재 자택 도착 통보 시스템 신청은 일대일만 가능하며, 이 경우 연락해야 할 경우 문제가 있습니다. 이러한 문제를 해결하기 위하여 그룹을 지정하여 그룹원들의 귀가 상태를 확인할 수 있는 서비스를 개발하였습니다.
 ---
 
 <p class="intro">현재, 가정 도착 알림 시스템은 주로 여성, 어린이, 택시에 적용된다. 하지만 집단에 대한 집 도착 알림 시스템은 없다. 현재 자택 도착 통보 시스템 신청은 일대일만 가능하며, 이 경우 연락해야 할 경우 문제가 있다. 이 논문에서 우리는 움직이기 전에 그룹을 만들었다. 우리는 이동수단에 대한 정보를 알 수 있다, 사람들이 집에 오든 안 오든, 그들이 목적지에 도착하지 않았을 때 그들이 그것을 함으로써, 나는 범죄의 가능성을 줄이고 집으로 안전하게 가는 서비스를 제안한다.</p>
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
 
 <blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
 
