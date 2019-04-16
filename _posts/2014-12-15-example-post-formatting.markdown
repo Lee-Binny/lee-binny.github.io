@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Example Post Formatting"
-date:   2014-12-15
+title:  "그룹 안심 귀가 서비스"
+date:   2019-04-16
 description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
 ---
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+<p class="intro">현재, 가정 도착 알림 시스템은 주로 여성, 어린이, 택시에 적용된다. 하지만 집단에 대한 집 도착 알림 시스템은 없다. 현재 자택 도착 통보 시스템 신청은 일대일만 가능하며, 이 경우 연락해야 할 경우 문제가 있다. 이 논문에서 우리는 움직이기 전에 그룹을 만들었다. 우리는 이동수단에 대한 정보를 알 수 있다, 사람들이 집에 오든 안 오든, 그들이 목적지에 도착하지 않았을 때 그들이 그것을 함으로써, 나는 범죄의 가능성을 줄이고 집으로 안전하게 가는 서비스를 제안한다.</p>
 
 # Heading 1
 
