@@ -5,7 +5,7 @@ date:   2019-04-16
 description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입니다. 현재, 가정 도착 알림 시스템은 주로 여성, 어린이, 택시에 적용되고 있습니다. 하지만 집단에 대한 집 도착 알림 시스템은 없습니다. 현재 자택 도착 통보 시스템 신청은 일대일만 가능하며, 이 경우 연락해야 할 경우 문제가 있습니다. 이러한 문제를 해결하기 위하여 그룹을 지정하여 그룹원들의 귀가 상태를 확인할 수 있는 서비스를 개발하였습니다.
 ---
 
-<p class="intro">현재, 가정 도착 알림 시스템은 주로 여성, 어린이, 택시에 적용된다. 하지만 집단에 대한 집 도착 알림 시스템은 없다. 현재 자택 도착 통보 시스템 신청은 일대일만 가능하며, 이 경우 연락해야 할 경우 문제가 있다. 이 논문에서 우리는 움직이기 전에 그룹을 만들었다. 우리는 이동수단에 대한 정보를 알 수 있다, 사람들이 집에 오든 안 오든, 그들이 목적지에 도착하지 않았을 때 그들이 그것을 함으로써, 나는 범죄의 가능성을 줄이고 집으로 안전하게 가는 서비스를 제안한다.</p>
+<p class="intro"></p>
 
 <blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
 
@@ -25,6 +25,13 @@ Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur pu
     2. Another Nested Item
 3. List Item
 
+## KSCI 학회 참여
+* 제목 : 위치데이터를 활용한 그룹 안심 귀가 서비의 구현
+* Longer List Item
+  * Nested List Item
+  * Nested Item
+* List Item
+
 ## Definition List
 <dl>
   <dt>Coffee</dt>
@@ -32,13 +39,3 @@ Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur pu
   <dt>Milk</dt>
   <dd>White cold drink</dd>
 </dl>
-
-Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.
-
-Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
