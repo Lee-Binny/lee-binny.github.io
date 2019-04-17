@@ -25,6 +25,5 @@ date:   2019-04-17
   * '2017 캡스톤 옥션 마켓' 참여
   * '대한민국 디자인 전람회' 대한상공회의소장상(GOLD) 수상
 
-  
-<img src="price.jpg">
-<![price.jpg]()
+
+<img src="/assets/img/price.jpg">
