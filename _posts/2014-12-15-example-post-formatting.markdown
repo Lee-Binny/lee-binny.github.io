@@ -7,9 +7,7 @@ description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입�
 
 <p class="intro"></p>
 
-<blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
-
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+술에 취한 사람들과 관한 사건이 증가하고 있다. 집을 제대로 찾아가지 못하여 실종이 되는 경우가 있고 술에 취한 사람들에게 퍽치기, 갈취, 폭행 등의 범죄가 발생한다. 그리고 집에 잘 도착했는지 연락이 되지 않으면 알 수 없다. 기존에 존재하는 어플리케이션은 누가 무슨 이동수단을 사용하여 귀가하고 있는지 알 수 없다. 그래서 술자리를 가지기 전에 그룹을 설정하여 그룹원들의 개인 목적지를 설정한다. 목적지로 출발할 때 귀가 모드로 설정하여 무슨 이동수단을 사용하여 귀가하고 있는지, 예상 도착 시간, 이동수단의 번호판을 나타낸다. 목적지에 도착하였을 때 다른 그룹원들에게 목적지까지 도착했다는 알림을 준다. 목적지에 가지 않고 다른 일을 하려고 할 때에는 귀가 모드를 풀고 다른 모드로 설정을 한다. 귀가 모드인 그룹원이 목적지에 도착하지 못하였을 때에는 알림을 줘서 조취를 취할 수 있도록 한다.
 
 ## Unordered List
 * List Item
