@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Featured Image"
-date:   2014-12-14
+title:  "하반신 마비 환자용 배변 알림 침대 패드"
+date:   2019-04-17
 image: touring.jpg
 ---
 

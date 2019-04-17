@@ -27,7 +27,7 @@ Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur pu
 
 ## KSCI 학회 참여
 * 제목 : 위치데이터를 활용한 그룹 안심 귀가 서비의 구현
-* Longer List Item
+*
   * Nested List Item
   * Nested Item
 * List Item
