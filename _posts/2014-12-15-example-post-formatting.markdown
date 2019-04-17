@@ -25,7 +25,7 @@ description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입�
 
 ## KSCI 학회 참여
 * 제목 : 위치데이터를 활용한 그룹 안심 귀가 서비의 구현
-*
+<a href="/assets/img/paper.pdf">
   * Nested List Item
   * Nested Item
 * List Item
