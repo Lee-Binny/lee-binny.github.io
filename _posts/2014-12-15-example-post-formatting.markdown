@@ -7,24 +7,16 @@ description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입�
 
 <p class="intro"></p>
 
-## Unordered List
-* List Item
-* Longer List Item
-  * Nested List Item
-  * Nested Item
-* List Item
-
 ## 시스템 구성도
 <img src="/assets/img/system.png">
+
+
+## 제작 화면
+<img src="/assets/img/screen2.jpg">
+<img src="/assets/img/screen3.jpg">
+<img src="/assets/img/screen4.jpg">
+
 
 ## KSCI 학회 참여
 * 제목 : 위치데이터를 활용한 그룹 안심 귀가 서비의 구현
 <a href="/assets/img/paper.pdf">KSCI 논문</a>
-
-## Definition List
-<dl>
-  <dt>Coffee</dt>
-  <dd>Black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>White cold drink</dd>
-</dl>
