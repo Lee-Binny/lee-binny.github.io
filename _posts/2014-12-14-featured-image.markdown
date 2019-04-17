@@ -26,4 +26,5 @@ date:   2019-04-17
   * '대한민국 디자인 전람회' 대한상공회의소장상(GOLD) 수상
 
 
-<img src="/assets/img/price.jpg">
+<img class="price" src="/assets/img/price.jpg">
+<img class="price" src="/assets/img/right.jpg">
