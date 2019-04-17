@@ -17,7 +17,7 @@ date:   2019-04-17
 ## 개발 내용
 * 보호자에게 알림을 주는 애플리케이션
   * 아두이노와 애플리케이션의 블루투스 통신을 하며 무게값을 전송하고 무게값이 증가했을 때 보호자에게 알림을 주는 애플리케이션
-  <img class="price" src="/assets/img/screen.jpg">
+  <img class="price" src="/assets/img/screen1.jpg">
 
 ## 특허 및 수상
 * 특허 출원
