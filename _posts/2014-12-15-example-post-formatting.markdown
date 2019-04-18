@@ -14,21 +14,20 @@ description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입�
 ## 제작 화면
 <table>
   <tr>
-    <td><img class="screen" src="/assets/img/screen2.jpg"></td>
-    <td></td>
+    <td><img class="screen" src="/assets/img/screen4.jpg"></td>
+    <td><h4>그룹 생성 전 화면</h4><p></p></td>
   </tr>
   <tr>
     <td><img class="screen" src="/assets/img/screen3.jpg"></td>
-    <td></td>
+    <td><h4>그룹 생성 후 화면</h4><p></p></td>
   </tr>
   <tr>
-    <td><img class="screen" src="/assets/img/screen4.jpg"></td>
-    <td></td>
+    <td><img class="screen" src="/assets/img/screen2.jpg"></td>
+    <td><h4>그룹원 개인 화면</h4><p></p></td>
   </tr>
 </table>
-<img src="/assets/img/screen4.jpg">
 
 
 ## KSCI 학회 참여
 * 제목 : 위치데이터를 활용한 그룹 안심 귀가 서비의 구현
-<a href="/assets/img/paper.pdf" target="_blank">KSCI 논문</a>
+<a href="/assets/img/paper.pdf" target="_blank">KSCI 논문 PDF VIEW</a>

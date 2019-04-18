@@ -2,3 +2,5 @@
 
 .price {width: 350px; margin:auto}
 .mobie {width: 300px; margin:auto}
+.screen {width:350px; float:left}
+.view {border: 1px solid #F29661;padding: 15px 90px;display: block;text-align: center;}
