@@ -15,10 +15,11 @@ description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입�
 * 개발 기간 : 2018.04.02 ~ 06.28
 * 개발 인원 : 1명
 * 개발 역할 : 자료조사, DB 설계, 서버 구축, UI 제작, 기능 구현
-* 개발 언어 : HTML, CSS, php
+* 개발 언어 : HTML5, CSS, javascript, php
 * 운영 체제 : window
 * Datebase : MySQL
 * API : DAUM 지도 API
+* 그 외 기술 : AJAX, GPS
 
 
 ## 시스템 구성도
