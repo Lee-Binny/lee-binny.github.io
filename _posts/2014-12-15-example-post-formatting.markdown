@@ -12,11 +12,14 @@ description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입�
 
 
 ## 제작 화면
-<img src="/assets/img/screen2.jpg">
-<img src="/assets/img/screen3.jpg">
+<| Header One     | Header Two     | Header Two     |
+| :------------- | :------------- | :------------- |
+| <img src="/assets/img/screen2.jpg">| <img src="/assets/img/screen3.jpg"> | <img src="/assets/img/screen4.jpg"> |
+
+
 <img src="/assets/img/screen4.jpg">
 
 
 ## KSCI 학회 참여
 * 제목 : 위치데이터를 활용한 그룹 안심 귀가 서비의 구현
-<a href="/assets/img/paper.pdf">KSCI 논문</a>
+<a href="/assets/img/paper.pdf" target="_blank">KSCI 논문</a>
