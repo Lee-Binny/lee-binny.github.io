@@ -12,11 +12,20 @@ description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입�
 
 
 ## 제작 화면
-<| Header One     | Header Two     | Header Two     |
-| :------------- | :------------- | :------------- |
-| <img src="/assets/img/screen2.jpg">| <img src="/assets/img/screen3.jpg"> | <img src="/assets/img/screen4.jpg"> |
-
-
+<table>
+  <tr>
+    <td><img class="screen" src="/assets/img/screen2.jpg"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img class="screen" src="/assets/img/screen3.jpg"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img class="screen" src="/assets/img/screen4.jpg"></td>
+    <td></td>
+  </tr>
+</table>
 <img src="/assets/img/screen4.jpg">
 
 
