@@ -25,15 +25,15 @@ description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입�
 <table>
   <tr>
     <td><img class="screen" src="/assets/img/screen4.jpg"></td>
-    <td><h4>그룹 생성 전 화면</h4><p></p></td>
+    <td><h4>그룹 생성 전 화면</h4><p>그룹이 생성 되기 전 화면으로 사용자의 현재 위치와 슬라이드 메뉴 안에 여러 가지 기능이 있다.</p></td>
   </tr>
   <tr>
     <td><img class="screen" src="/assets/img/screen3.jpg"></td>
-    <td><h4>그룹 생성 후 화면</h4><p></p></td>
+    <td><h4>그룹 생성 후 화면</h4><p>그룹이 생성된 후 화면 중 그룹장의 화면으로 '그룹원 추가', '그룹 수정' 기능이 있다. 그룹원들과 그룹원들의 상태를 확인할 수 있다.</p></td>
   </tr>
   <tr>
     <td><img class="screen" src="/assets/img/screen2.jpg"></td>
-    <td><h4>그룹원 개인 화면</h4><p></p></td>
+    <td><h4>그룹원 개인 화면</h4><p>그룹원 개인화면으로 'DAUM 지도 API'를 통하여 그룹원이 지정한 목적지에서 현재 위치까지의 거리와 이동 소요시간을 나타낸다.</p></td>
   </tr>
 </table>
 
