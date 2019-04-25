@@ -65,13 +65,17 @@ IPP는 산업 분야별로 필요 인력의 안정된 수급과 정예화 된 �
 ## 리뷰마켓
 * 컨펌 후 최종 시안을 토대로 html, css 코딩 / 포토샵 시안에서 필요한 이미지 png 파일로 저장하여 삽입 / 반응형 웹 사이트 제작 / slick.js를 사용하여 슬라이드 배너 제작
 
-<img class="ipp" src="/assets/img/ipp6.jpg"><p>'리뷰마켓' 디자인 시안</p><br>
+<img class="ipp" src="/assets/img/ipp6.jpg">
+<p>'리뷰마켓' 디자인 시안</p><br>
 <img class="ipp" src="/assets/img/ipp4.jpg">
-<img class="ipp" src="/assets/img/ipp5.jpg"><p>제작한 '리뷰마켓' 페이지 학원</p>
+<img class="ipp" src="/assets/img/ipp5.jpg">
+<p>제작한 '리뷰마켓' 페이지 학원</p>
 
 ## 무인코인
 * 컨펌 후 최종 시안을 토대로 html, css 코딩 / 포토샵 시안에서 필요한 이미지 png 파일로 저장하여 삽입 / 반응형 웹 사이트 제작 / 슬라이드 배너에 필요한 이미지 제작 / 모바일 사이즈에 맞는 이미지 제작 / pdf 파일을 사이트에서 확인할 수 있도록 javascript 사용
 
-<img class="ipp" src="/assets/img/ipp3.jpg"><p>'무인코인' 디자인 시안</p><br>
+<img class="ipp" src="/assets/img/ipp3.jpg">
+<p>'무인코인' 디자인 시안</p><br>
 <img class="ipp" src="/assets/img/ipp1.jpg">
-<img class="ipp" src="/assets/img/ipp2.jpg"><p>제작한 '무인코인' 페이지 학원</p>
+<img class="ipp" src="/assets/img/ipp2.jpg">
+<p>제작한 '무인코인' 페이지 학원</p>
