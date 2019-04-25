@@ -61,3 +61,9 @@ IPP는 산업 분야별로 필요 인력의 안정된 수급과 정예화 된 �
     ‘도전과 나눔’ 수정</td>
   </tr>
 </table>
+
+##무인코인
+* 컨펌 후 최종 시안을 토대로 html, css 코딩 / 포토샵 시안에서 필요한 이미지 png 파일로 저장하여 삽입 / 반응형 웹 사이트 제작 / 슬라이드 배너에 필요한 이미지 제작 / 모바일 사이즈에 맞는 이미지 제작 / pdf 파일을 사이트에서 확인할 수 있도록 javascript 사용
+<img class="price" src="/assets/img/ipp3.jpg">
+<img class="price" src="/assets/img/ipp1.jpg">
+<img class="price" src="/assets/img/ipp2.jpg">
