@@ -23,19 +23,19 @@ date:   2019-08-17
 
 ## 로고제작
 * 로고 밑그림을 바탕으로 일러스트를 사용하여 대표 로고 제작
-<img class="logo mybio" src="/assets/img/mybio/logo.png">
 <div class="explain">
+	<img class="logo mybio" src="/assets/img/mybio/logo.png">
 	<small>마이비오 로고</small>
 </div>
 
 ## 배너제작
 * 메인화면에 필요한 이벤트성, 브랜드 소개 배너 제작
-<img class="mybio" src="/assets/img/mybio/pcv.png">
 <div class="explain">
+	<img class="mybio" src="/assets/img/mybio/pcv.png">
 	<small>PC버전 배너</small>
 </div>
-<img class="mybio" src="/assets/img/mybio/mbv.png">
 <div class="explain">
+	<img class="mybio" src="/assets/img/mybio/mbv.png">
 	<small>모바일버전 배너</small>
 </div>
 
