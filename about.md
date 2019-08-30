@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Subin Lee
+title: SUBIN BLOG | About
 ---
 
 <div class="post">

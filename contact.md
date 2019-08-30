@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Subin Lee
+title: SUBIN BLOG | Contact
 ---
 
 <div id="contact">
