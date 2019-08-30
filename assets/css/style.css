@@ -9,5 +9,5 @@
 .view:hover {background-color:#F29661;color:#fff}
 .title {text-align:center}
 .profile_img {width:40%; display:inline-block}
-.profile_img img {border-radius: 10em}
-.profile_script {width:60%; }
+.profile_img img {border-radius: 10em; padding:25px}
+.profile_script {width: 58%;display: inline-block;vertical-align: top;}
