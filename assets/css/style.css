@@ -7,3 +7,4 @@
 .screen {width:200px !important; float:left }
 .view {border:1px solid #F29661; padding:15px 90px;display:block;text-align:center;margin:20px}
 .view:hover {background-color:#F29661;color:#fff}
+.title {text-align:center}
