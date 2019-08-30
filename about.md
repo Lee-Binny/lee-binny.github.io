@@ -5,8 +5,8 @@ title: About Long Haul
 
 <div class="post">
 	<h1 class="pageTitle">About Subin Lee</h1>
-	<img src="/assets/img/profile.jpg">
-	<p class="intro">안녕하세요.</p>
+	<img class="profile_img" src="/assets/img/profile.jpg">
+	<p class="profile_script">안녕하세요.</p>
 	<h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
