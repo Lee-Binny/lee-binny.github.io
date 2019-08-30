@@ -1,30 +1,35 @@
 ---
 layout: post
-title:  "Figure With A Caption"
-date:   2014-12-12
+title:  "마이비오"
+date:   2019-08-17
 ---
 
+## 마이비오
+* 2019.03.20 ~ 2019.08.16
+* 웹디자이너 (프리랜서)
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
 
-Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
+## 개요
+<p>하반신이 마비가 되면 아무리 성인이라도 배뇨, 배변 활동을 조절 할 수 없다. 그래서 성인용 기저귀를 착용한다. 마비가 된 하반신은 아무런 느낌이 없기 때문에 배뇨, 배변을 활동을 하여도 인지할 수 없다. 다른 사람이 알아차리기 전까지 기저귀에 배뇨, 배변이 있는 상태로 있어야한다. 그렇게 되면 하반신 마비인 사람도 불편함을 느끼고 보호자도 환자가 배뇨, 배변 활동을 했는지 일일이 확인해야 하므로 번거로움을 느끼게 된다. 또 피부염 발생, 악취 등 문제가 발생하게 된다. 이러한 문제를 해결하기 위해 환자의 배뇨, 배변 활동을 빨리 알아내서 빠른 조취를 취할 수 있도록 하고 보호자가 다른 일을 할 때 신경 쓰지 않고 편하게 일을 할 수 있도록 한다.</p>
 
-<figure>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
-</figure>
 
-{% highlight html %}
-<figure>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
-</figure>
-{% endhighlight %}
+## 개발 내용
+* 보호자에게 알림을 주는 애플리케이션
+  <p>아두이노와 애플리케이션의 블루투스 통신을 하며 무게값을 전송하고 무게값이 증가했을 때 보호자에게 알림을 주는 애플리케이션</p>
 
-Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
+<img class="system" src="/assets/img/system1.jpg">
 
-Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.
+## 특허 및 수상
+* 특허 출원
+  * 특허 고객번호 : 4-2010-041458-6
+  * 국문명칭 : 배변 알림 기능을 구비한 침대
+* 내부 공모전
+  * '2017 DSU LINC+ FAIR' 장려상 수상
+* 외부 공모전
+  * '2017 캡스톤 디자인 경진대회' 참여
+  * '2017 캡스톤 옥션 마켓' 참여
+  * '대한민국 디자인 전람회' 대한상공회의소장상(GOLD) 수상
 
-Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.
 
-Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.
+<img class="price" src="/assets/img/price.jpg">
+<img class="price" src="/assets/img/right.jpg">
