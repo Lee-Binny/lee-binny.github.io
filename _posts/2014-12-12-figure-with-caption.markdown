@@ -16,19 +16,19 @@ date:   2019-08-17
 * CS/고객상담
 * 쇼핑몰 블로그/SNS 관리
 
-<img src="/assets/img/mybio/mybio.png">
+<img class="mybio" src="/assets/img/mybio/mybio.png">
 <small>마이비오 홈페이지</small>
 
 ## 로고제작
 * 로고 밑그림을 바탕으로 일러스트를 사용하여 대표 로고 제작
-<img class="logo" src="/assets/img/mybio/logo.png">
+<img class="logo mybio" src="/assets/img/mybio/logo.png">
 <small>마이비오 로고</small>
 
 ## 배너제작
 * 메인화면에 필요한 이벤트성, 브랜드 소개 배너 제작
-<img src="/assets/img/mybio/pcv.png">
+<img class="mybio" src="/assets/img/mybio/pcv.png">
 <small>PC버전 배너</small>
-<img src="/assets/img/mybio/mbv.png">
+<img class="mybio" src="/assets/img/mybio/mbv.png">
 <small>모바일버전 배너</small>
 
 ## 특허 및 수상
