@@ -13,7 +13,7 @@ title: SUBIN BLOG | About
 		<p>이름 : 이수빈<br>
 			전공 : 컴퓨터공학부(소프트웨어 트랙)<br>
 			학력 : 대학교 졸업(2019.02)<br>
-			출생 : 1996</p>
+			출생 : 1996, 부산</p>
 	</div>
 	</article>
 	<h2>Features</h2>
