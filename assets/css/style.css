@@ -8,5 +8,5 @@
 .view {border:1px solid #F29661; padding:15px 90px;display:block;text-align:center;margin:20px}
 .view:hover {background-color:#F29661;color:#fff}
 .title {text-align:center}
-.profile_img {width:40%; float:left; border-radius: 1em}
-.profile_script {width:60%; float:right}
+.profile_img {width:40%; border-radius: 10em}
+.profile_script {width:60%; }
