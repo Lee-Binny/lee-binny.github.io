@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About Subin Lee
 ---
 
 <div class="post">
@@ -10,7 +10,10 @@ title: About Long Haul
 		<img src="/assets/img/profile.jpg">
 	</div>
 	<div class="profile_script">
-		<p>안녕하세요.</p>
+		<p>이름 : 이수빈</p>
+		<p>전공 : 컴퓨터공학부(소프트웨어 트랙)</p>
+		<p>학력 : 대학교 졸업(2019.02)</p>
+		<p>출생 : 1996</p>
 	</div>
 	</article>
 	<h2>Features</h2>
