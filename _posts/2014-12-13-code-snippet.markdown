@@ -79,3 +79,10 @@ IPP는 산업 분야별로 필요 인력의 안정된 수급과 정예화 된 �
 <img class="ipp" src="/assets/img/ipp1.jpg">
 <img class="ipp" src="/assets/img/ipp2.jpg">
 <p>제작한 '무인코인' 페이지</p>
+
+## 블록코일
+* 타 홈페이지를 벤치마킹 하여 요구사항을 토대로 포토샵 시안 PSD 파일 제작 / 내용에 필요한 이미지 PNG 파일 제작 / 포토샵 시안에 맞춰 HTML, CSS 코딩
+
+<img class="ipp" src="/assets/img/ipp7.jpg">
+<img class="ipp" src="/assets/img/ipp8.jpg">
+<p>제작한 '무인코인' 페이지</p>
