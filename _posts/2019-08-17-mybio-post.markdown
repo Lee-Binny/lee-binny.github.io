@@ -39,16 +39,12 @@ date:   2019-08-17
 	<small>모바일버전 배너</small>
 </div>
 
-## 특허 및 수상
-* 특허 출원
-  * 특허 고객번호 : 4-2010-041458-6
-  * 국문명칭 : 배변 알림 기능을 구비한 침대
-* 내부 공모전
-  * '2017 DSU LINC+ FAIR' 장려상 수상
-* 외부 공모전
-  * '2017 캡스톤 디자인 경진대회' 참여
-  * '2017 캡스톤 옥션 마켓' 참여
-  * '대한민국 디자인 전람회' 대한상공회의소장상(GOLD) 수상
+## 모바일버전
+* 모바일버전 슬라이드 메뉴 변경
+<div class="explain">
+	<img class="mybio" src="/assets/img/mybio/mobile.png">
+	<small>모바일 슬라이딩 메뉴</small>
+</div>
 
 
 <img class="price" src="/assets/img/price.jpg">
