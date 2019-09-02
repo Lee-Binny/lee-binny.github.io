@@ -46,6 +46,10 @@ date:   2019-08-17
 	<small>모바일 슬라이딩 메뉴</small>
 </div>
 
+# 슬라이드 배너 제작
+* 자바스크립트를 사용하녀 슬라이드 배너와 배너 이미지 제작
+<div class="explain">
+	<img class="mybio" src="/assets/img/mybio/slide.png">
+	<small>슬라이드 메뉴</small>
+</div>
 
-<img class="price" src="/assets/img/price.jpg">
-<img class="price" src="/assets/img/right.jpg">
