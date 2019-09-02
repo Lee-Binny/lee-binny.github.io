@@ -88,5 +88,5 @@ IPP는 산업 분야별로 필요 인력의 안정된 수급과 정예화 된 �
 
 ## 반응형 웹 페이지
 * 화면 크기에 맞는 웹 페이지 제작
-<img class="ipp" src="/assets/img/blockcoil.png">
-<img class="ipp" src="/assets/img/blockcoil2.png">
+<img class="ipp1" src="/assets/img/blockcoil.png">
+<img class="ipp2" src="/assets/img/blockcoil2.png">
