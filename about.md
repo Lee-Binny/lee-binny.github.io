@@ -17,7 +17,7 @@ title: SUBIN BLOG | About
 	</div>
 	</article>
 	<ul>
-		<li class="abil"><img src="/assets/img/img1.png"><p>HTML</p></li>
-		<li class="abil"><img src="/assets/img/img2.png"><p>CSS</p></li>
+		<li class="abil">HTML</li>
+		<li class="abil">CSS</li>
   	</ul>
 </div>
