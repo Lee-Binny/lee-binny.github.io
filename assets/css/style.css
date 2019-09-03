@@ -3,7 +3,7 @@
 .ipp {width: 70%; margin:auto; display:block}
 .ipp1 {width: 73%;}
 .ipp2 {width: 25%;}
-.price {width: 350px; margin:auto}
+.price {width: 48%;margin: auto;display: inline-block;}
 .mobie {width: 300px; margin:auto}
 .system {width: 100%; margin:auto}
 .screen {width:500px; float:left }
