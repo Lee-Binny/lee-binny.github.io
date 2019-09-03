@@ -17,5 +17,10 @@ title: SUBIN BLOG | About
 	<ul>
 		<li class="abil"><img src="/assets/img/img1.png">HTML</li>
 		<li class="abil"><img src="/assets/img/img2.png">CSS</li>
+		<li class="abil"><img src="/assets/img/img3.png">php</li>
+		<li class="abil"><img src="/assets/img/img4.png">mysql</li>
+		<li class="abil"><img src="/assets/img/img5.png">React.JS</li>
+		<li class="abil"><img src="/assets/img/img6.png">photoshop</li>
+		<li class="abil"><img src="/assets/img/img7.png">illustrator</li>
   	</ul>
 </div>
