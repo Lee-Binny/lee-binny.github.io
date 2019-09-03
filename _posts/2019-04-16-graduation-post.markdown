@@ -48,6 +48,6 @@ description: 저의 대학교 졸업작품 '그룸 안심 귀가 서비스'입�
 * 제목 : 위치데이터를 활용한 그룹 안심 귀가 서비의 구현
 * 기간 : 2018.07.20
 * 우수 논문 선정
-<img class="screen" src="/assets/img/price2.jpg">
+<img src="/assets/img/price2.jpg">
 
 <a class="view" href="/assets/img/paper.pdf" target="_blank">KSCI 논문 PDF VIEW</a>
