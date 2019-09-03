@@ -14,7 +14,7 @@
 .profile_img img {width:252px; border-radius: 10em;}
 .profile_script {width: 100%;display: inline-block;vertical-align: top;padding: 0 0 20px 0}
 .logo {width:30%; margin:0 auto;}
-.mybio {margin-bottom: -10px 10px !important}
+.mybio {margin-bottom: 0px !important}
 .explain {text-align:center;}
 .abil {width:48%; display:inline-block}
-.abil img {margin:0 !important}
+.abil img {margin:-10px 10px !important}
