@@ -49,7 +49,7 @@ date:   2019-08-17
 # 슬라이드 배너 제작
 * 자바스크립트를 사용하여 슬라이드 배너와 배너 이미지 제작
 <div class="explain">
-	<img class="mybio" src="/assets/img/mybio/slide.png">
+	<img class="mybio" src="/assets/img/mybio/banner.png">
 	<small>슬라이드 메뉴</small>
 </div>
 
