@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "마이비오"
+title:  "[실무경험] 마이비오"
 date:   2019-08-17
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "장기 현장 실습(IPP)"
+title:  "[실무경험] 장기 현장 실습(IPP)"
 date:   2019-04-19
 ---
 
